@@ -1,0 +1,91 @@
+"LIBROS"
+
+Agregar:
+
+{
+  "isbn": "123-123",
+  "title": "Las Aventuras de Matu",
+  "author": "Matu",
+  "pags_Number": 200,
+  "stock": 6,
+  "price": 50.20
+}
+
+{
+  "isbn": "255-636",
+  "title": "Sin Miedo",
+  "author": "Julian Lopez",
+  "pags_Number": 120,
+  "stock": 20,
+  "price": 290.50
+}
+
+{
+  "isbn": "902-420",
+  "title": "Una Noche sin Luna",
+  "author": "Santiago Pedro",
+  "pags_Number": 390,
+  "stock": 25,
+  "price": 380.20
+}
+
+Editarlo: 
+
+{
+  "isbn": "123-123",
+  "title": "Sueño de la Gitana",
+  "author": "Matute",
+  "pags_Number": 500,
+  "stock": 20,
+  "price": 120.50
+}
+
+
+"FACTURAS"
+
+Agregar:
+
+{
+  "date": "2025-09-09T13:13:04.589Z",
+  "payment_Method": {
+    "id": 2
+  },
+  "client": "string",
+  "listDetails": [
+    {
+      "book": {
+        "isbn": "123-123",
+        "title": "Las Aventuras de Matu",
+        "author": "Matu",
+        "pags_Number": 200,
+        "stock": 6,
+        "price": 50.20
+      },
+      "amount": 3
+    },
+    {
+      "book": {
+        "isbn": "255-636",
+        "title": "Sin Miedo",
+        "author": "Julian Lopez",
+        "pags_Number": 120,
+        "stock": 20,
+        "price": 290.50
+      },
+      "amount": 5
+    },
+    {
+      "book": {       
+        "isbn": "902-420",
+        "title": "Una Noche sin Luna",
+        "author": "Santiago Pedro",
+        "pags_Number": 390,
+        "stock": 25,
+        "price": 380.20
+      },
+      "amount": 20
+    }
+  ]
+}
+
+

@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.BooksController",
+    "Method": "Post",
+    "RelativePath": "api/Books/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "book",
+        "Type": "LibreriaConsola.entities.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.BooksController",
+    "Method": "Get",
+    "RelativePath": "api/Books/Bring",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.BooksController",
+    "Method": "Put",
+    "RelativePath": "api/Books/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "book",
+        "Type": "LibreriaConsola.entities.Book",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.BooksController",
+    "Method": "GetById",
+    "RelativePath": "api/Books/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.BooksController",
+    "Method": "Delete",
+    "RelativePath": "api/Books/Unsubscribe",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isbn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.InvoicesController",
+    "Method": "Post",
+    "RelativePath": "api/Invoices/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoice",
+        "Type": "LibreriaConsola.entities.Invoice",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.InvoicesController",
+    "Method": "Get",
+    "RelativePath": "api/Invoices/Bring",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibreriaWebApi.Controllers.InvoicesController",
+    "Method": "Delete",
+    "RelativePath": "api/Invoices/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
