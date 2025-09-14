@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\TransaccionesLibros\TransaccionesLibros\TransaccionesLibros.csproj" />
+    <ProjectReference Include="..\TransaccionesLibros\TransaccionesLibros\TransaccionesLibros.csproj" />
   </ItemGroup>
 
 </Project>

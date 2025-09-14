@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaWebApi", "LibreriaWebApi\LibreriaWebApi.csproj", "{CA439B26-EC88-4873-9061-0449E7ECA2AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransaccionesLibros", "..\TransaccionesLibros\TransaccionesLibros\TransaccionesLibros.csproj", "{60D8336B-1FE5-13A2-0622-6A26695E6566}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransaccionesLibros", "TransaccionesLibros\TransaccionesLibros\TransaccionesLibros.csproj", "{4D475FA8-E80D-F6D4-5D55-46517DB03828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CA439B26-EC88-4873-9061-0449E7ECA2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA439B26-EC88-4873-9061-0449E7ECA2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA439B26-EC88-4873-9061-0449E7ECA2AE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60D8336B-1FE5-13A2-0622-6A26695E6566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60D8336B-1FE5-13A2-0622-6A26695E6566}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60D8336B-1FE5-13A2-0622-6A26695E6566}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60D8336B-1FE5-13A2-0622-6A26695E6566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D475FA8-E80D-F6D4-5D55-46517DB03828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D475FA8-E80D-F6D4-5D55-46517DB03828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D475FA8-E80D-F6D4-5D55-46517DB03828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D475FA8-E80D-F6D4-5D55-46517DB03828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

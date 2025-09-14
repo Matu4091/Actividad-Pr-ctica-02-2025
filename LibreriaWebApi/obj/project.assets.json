@@ -2041,8 +2041,8 @@
     },
     "TransaccionesLibros/1.0.0": {
       "type": "project",
-      "path": "../../TransaccionesLibros/TransaccionesLibros/TransaccionesLibros.csproj",
-      "msbuildProject": "../../TransaccionesLibros/TransaccionesLibros/TransaccionesLibros.csproj"
+      "path": "../TransaccionesLibros/TransaccionesLibros/TransaccionesLibros.csproj",
+      "msbuildProject": "../TransaccionesLibros/TransaccionesLibros/TransaccionesLibros.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2083,8 +2083,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj"
+            "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj"
             }
           }
         }
