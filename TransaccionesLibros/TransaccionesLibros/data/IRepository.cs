@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibreriaConsola.data
+namespace TransaccionesLibros.data
 {
     internal interface IRepository<T,D>
     {

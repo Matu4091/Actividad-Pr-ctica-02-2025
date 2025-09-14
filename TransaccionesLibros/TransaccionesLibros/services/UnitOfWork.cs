@@ -1,5 +1,5 @@
-﻿using LibreriaConsola.data;
-using LibreriaConsola.entities;
+﻿using TransaccionesLibros.data;
+using TransaccionesLibros.entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TransaccionesLibros.services;
 
-namespace LibreriaConsola.services
+namespace TransaccionesLibros.services
 {
     public class UnitOfWork : IService<Invoice, int>
     {

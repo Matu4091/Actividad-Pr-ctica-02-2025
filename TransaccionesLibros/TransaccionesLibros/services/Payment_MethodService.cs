@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LibreriaConsola.data;
-using LibreriaConsola.entities;
+using TransaccionesLibros.data;
+using TransaccionesLibros.entities;
 using TransaccionesLibros.services;
 
-namespace LibreriaConsola.services
+namespace TransaccionesLibros.services
 {
     public class Payment_MethodService : IService<Payment_Method, int>
     {

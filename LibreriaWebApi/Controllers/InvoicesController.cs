@@ -1,8 +1,7 @@
-﻿using LibreriaConsola.entities;
-using LibreriaConsola.services;
+﻿using TransaccionesLibros.entities;
+using TransaccionesLibros.services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TransaccionesLibros.services;
 
 namespace LibreriaWebApi.Controllers
 {

@@ -4,9 +4,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LibreriaConsola.entities;
+using TransaccionesLibros.entities;
 
-namespace LibreriaConsola.data
+namespace TransaccionesLibros.data
 {
     internal class Payment_MethodRepository : IRepository<Payment_Method, int>
     {

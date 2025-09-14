@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
 using Microsoft.VisualBasic;
 
-namespace LibreriaConsola.data
+namespace TransaccionesLibros.data
 {
     internal class DataHelper
     {

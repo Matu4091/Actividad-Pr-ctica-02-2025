@@ -1,13 +1,13 @@
-﻿using LibreriaConsola.data;
+﻿using TransaccionesLibros.data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LibreriaConsola.entities;
+using TransaccionesLibros.entities;
 using TransaccionesLibros.services;
 
-namespace LibreriaConsola.services
+namespace TransaccionesLibros.services
 {
     public class BookService : IService<Book, string>
     {

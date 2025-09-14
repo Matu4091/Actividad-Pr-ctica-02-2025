@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
               "RelativeToolTip": "TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T23:10:38.84Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "TransaccionesLibros\\TransaccionesLibros\\data\\InvoiceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:10:35.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T23:10:35.369Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "TransaccionesLibros\\TransaccionesLibros\\data\\DataHelper.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:07:29.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T23:07:29.255Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "LibreriaWebApi\\Controllers\\BooksController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA7wEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:41:31.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T14:41:31.606Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "LibreriaWebApi\\Controllers\\InvoicesController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:41:52.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T14:41:52.428Z"
             }
           ]
         }
