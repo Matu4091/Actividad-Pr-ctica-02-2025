@@ -80,3 +80,4 @@ C:\Users\Usuario\Desktop\UTN TUP\Programacion II\Unidad 1\Proyectos\LibreriaWebA
 C:\Users\Usuario\Desktop\UTN TUP\Programacion II\Unidad 1\Proyectos\LibreriaWebApi\LibreriaWebApi\obj\Debug\net8.0\LibreriaWebApi.pdb
 C:\Users\Usuario\Desktop\UTN TUP\Programacion II\Unidad 1\Proyectos\LibreriaWebApi\LibreriaWebApi\obj\Debug\net8.0\LibreriaWebApi.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\UTN TUP\Programacion II\Unidad 1\Proyectos\LibreriaWebApi\LibreriaWebApi\obj\Debug\net8.0\ref\LibreriaWebApi.dll
+C:\Users\Usuario\Desktop\UTN TUP\Programacion II\Unidad 1\Proyectos\LibreriaWebApi\LibreriaWebApi\obj\Debug\net8.0\LibreriaWebApi.sourcelink.json

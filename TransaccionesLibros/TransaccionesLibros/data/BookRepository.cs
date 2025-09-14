@@ -31,15 +31,18 @@ namespace LibreriaConsola.data
             {
                 foreach (DataRow row in dt.Rows)
                 {
-                    books.Add(new Book()
+                    if (row["fecha_baja"] == DBNull.Value)
                     {
-                        Isbn = (string)row["isbn"],
-                        Title = (string)row["titulo"],
-                        Author = (string)row["autor"],
-                        Pags_Number = Convert.ToInt32(row["nro_paginas"]),
-                        Stock = Convert.ToInt32(row["stock"]),
-                        Price = Convert.ToDouble(row["precio"])
-                    });
+                        books.Add(new Book()
+                        {
+                            Isbn = (string)row["isbn"],
+                            Title = (string)row["titulo"],
+                            Author = (string)row["autor"],
+                            Pags_Number = Convert.ToInt32(row["nro_paginas"]),
+                            Stock = Convert.ToInt32(row["stock"]),
+                            Price = Convert.ToDouble(row["precio"])
+                        });
+                    }
                 }
 
                 return books;

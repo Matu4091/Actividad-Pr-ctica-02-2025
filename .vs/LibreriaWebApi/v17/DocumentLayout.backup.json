@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA439B26-EC88-4873-9061-0449E7ECA2AE}|LibreriaWebApi\\LibreriaWebApi.csproj|c:\\users\\usuario\\desktop\\utn tup\\programacion ii\\unidad 1\\proyectos\\libreriawebapi\\libreriawebapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA439B26-EC88-4873-9061-0449E7ECA2AE}|LibreriaWebApi\\LibreriaWebApi.csproj|solutionrelative:libreriawebapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D475FA8-E80D-F6D4-5D55-46517DB03828}|TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj|c:\\users\\usuario\\desktop\\utn tup\\programacion ii\\unidad 1\\proyectos\\libreriawebapi\\transaccioneslibros\\transaccioneslibros\\data\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D475FA8-E80D-F6D4-5D55-46517DB03828}|TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj|solutionrelative:transaccioneslibros\\transaccioneslibros\\data\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D475FA8-E80D-F6D4-5D55-46517DB03828}|TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj|c:\\users\\usuario\\desktop\\utn tup\\programacion ii\\unidad 1\\proyectos\\libreriawebapi\\transaccioneslibros\\transaccioneslibros\\data\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D475FA8-E80D-F6D4-5D55-46517DB03828}|TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj|solutionrelative:transaccioneslibros\\transaccioneslibros\\data\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA439B26-EC88-4873-9061-0449E7ECA2AE}|LibreriaWebApi\\LibreriaWebApi.csproj|c:\\users\\usuario\\desktop\\utn tup\\programacion ii\\unidad 1\\proyectos\\libreriawebapi\\libreriawebapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA439B26-EC88-4873-9061-0449E7ECA2AE}|LibreriaWebApi\\LibreriaWebApi.csproj|solutionrelative:libreriawebapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA439B26-EC88-4873-9061-0449E7ECA2AE}|LibreriaWebApi\\LibreriaWebApi.csproj|c:\\users\\usuario\\desktop\\utn tup\\programacion ii\\unidad 1\\proyectos\\libreriawebapi\\libreriawebapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA439B26-EC88-4873-9061-0449E7ECA2AE}|LibreriaWebApi\\LibreriaWebApi.csproj|solutionrelative:libreriawebapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D475FA8-E80D-F6D4-5D55-46517DB03828}|TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj|c:\\users\\usuario\\desktop\\utn tup\\programacion ii\\unidad 1\\proyectos\\libreriawebapi\\transaccioneslibros\\transaccioneslibros\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D475FA8-E80D-F6D4-5D55-46517DB03828}|TransaccionesLibros\\TransaccionesLibros\\TransaccionesLibros.csproj|solutionrelative:transaccioneslibros\\transaccioneslibros\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +38,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
+              "RelativeDocumentMoniker": "TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
+              "RelativeToolTip": "TransaccionesLibros\\TransaccionesLibros\\data\\BookRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T23:10:38.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "TransaccionesLibros\\TransaccionesLibros\\data\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\InvoiceRepository.cs",
+              "RelativeToolTip": "TransaccionesLibros\\TransaccionesLibros\\data\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T23:10:35.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "TransaccionesLibros\\TransaccionesLibros\\data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\TransaccionesLibros\\TransaccionesLibros\\data\\DataHelper.cs",
+              "RelativeToolTip": "TransaccionesLibros\\TransaccionesLibros\\data\\DataHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T23:07:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\LibreriaWebApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibreriaWebApi\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\LibreriaWebApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "LibreriaWebApi\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T14:41:31.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "InvoicesController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\LibreriaWebApi\\Controllers\\InvoicesController.cs",
               "RelativeDocumentMoniker": "LibreriaWebApi\\Controllers\\InvoicesController.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN TUP\\Programacion II\\Unidad 1\\Proyectos\\LibreriaWebApi\\LibreriaWebApi\\Controllers\\InvoicesController.cs",
               "RelativeToolTip": "LibreriaWebApi\\Controllers\\InvoicesController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T14:41:52.428Z",
               "EditorCaption": ""
